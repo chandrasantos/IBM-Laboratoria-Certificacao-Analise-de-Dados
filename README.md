@@ -31,23 +31,27 @@ A Laboratória possibilita que mulheres que sonham com um futuro melhor comecem 
 
   
 # Índice de projetos 
-## Projeto 1: Excesso de mortes por COVID-19
+## Projeto 1: Excesso de mortes por COVID-19<br>
 
-Faça uma estimativa das mortes por COVID19 na América Latina
+Faça uma estimativa das mortes por COVID19 na América Latina<br>
 
-Objetivos de aprendizagem:
-✅Manipular dados em planilhas
-✅Organizar e comunicar as descobertas
-✅Organizar os dados em tabelas
-✅Visualizar dados em planilhas
-  
-<EM BREVE>
-  
-## Projeto 2: Retenção da Partida Tecnológica
+Objetivos de aprendizagem:<br>
 
-Conduzir uma análise de coorte para medir a retenção de um Saas Tecnológico.
+✅Manipular dados em planilhas<br>
+
+✅Organizar e comunicar as descobertas<br>
+
+✅Organizar os dados em tabelas<br>
+
+✅Visualizar dados em planilhas<br>
   
-Objetivos de aprendizagem:
+<EM BREVE><br>
+  
+## Projeto 2: Retenção da Partida Tecnológica<br>
+<br>
+Conduzir uma análise de coorte para medir a retenção de um Saas Tecnológico.<br>
+  <br>
+Objetivos de aprendizagem:<br>
 ✅Entendendo o conceito de ajuste do mercado de produtos <br>
 ✅Manipular dados em planilhas<br>
 ✅Organizar os dados em tabelas<br>
@@ -56,43 +60,47 @@ Objetivos de aprendizagem:
 ✅Tomar decisões comerciais baseadas em dados<br>
   
 ## Projeto 3: Segmentação de clientes no comércio eletrônico
-Realizar uma segmentação de clientes aplicando a metodologia RFM para um comércio eletrônico.
-
-Objetivos de aprendizagem:
-✅Pré-processar dados em planilhas
-✅Organize os dados em planilhas
-✅Manipular dados em planilhas
-✅Visualize dados em planilhas
-✅Realize uma análise por coorte
-✅Segmentar clientes usando o modelo RFM
   
+Realizar uma segmentação de clientes aplicando a metodologia RFM para um comércio eletrônico.<br>
+
+Objetivos de aprendizagem:<br>
+✅Pré-processar dados em planilhas<br>
+✅Organize os dados em planilhas<br>
+✅Manipular dados em planilhas<br>
+✅Visualize dados em planilhas<br>
+✅Realize uma análise por coorte<br>
+✅Segmentar clientes usando o modelo RFM<br>
+  <br>
 ## Projeto 4: Análise de cancelamentos de hotéis
-  
-Você trabalhará no setor de turismo analisando dados históricos de uma rede hoteleira.
+  <br>
+Você trabalhará no setor de turismo analisando dados históricos de uma rede hoteleira.<br>
 
-Objetivos de aprendizagem:
-✅Organizar e manipular dados usando SQL: entenda os principais comandos SQL (i.e. SELECT, FROM, WHERE, GROUP BY, ORDER BY, AVG, COUNT). Use a linguagem SQL para gerenciar as informações armazenadas no BigQuery. Limpe, filtre e resuma os dados de acordo com a necessidade do negócio.  
-✅Tomar decisões de negócios com base em dados: resuma e organize os dados de forma a encontrar informações importantes para apoiar uma decisão de negócios. Entenda os prós e os contras de tal decisão e opere dentro de uma certa margem de erro.
-✅Visualizar dados em uma ferramenta de Business Intelligence (BI): conheça o ambiente de desenho do PowerBI, mostre os principais indicadores e as estruturas em um dashboard que permite ao negócio obter conclusões acionáveis.
-✅Organizar e comunicar as descobertas: estruture sua análise em um relatório claro e organizado. Comunique efetivamente as conclusões a que chegou em seu projeto.
+Objetivos de aprendizagem:<br>
+✅Organizar e manipular dados usando SQL: entenda os principais comandos SQL (i.e. SELECT, FROM, WHERE, GROUP BY, ORDER BY, AVG, COUNT). Use a linguagem SQL para gerenciar as informações armazenadas no BigQuery. Limpe, filtre e resuma os dados de acordo com a necessidade do negócio.<br>
+  
+✅Tomar decisões de negócios com base em dados: resuma e organize os dados de forma a encontrar informações importantes para apoiar uma decisão de negócios. Entenda os prós e os contras de tal decisão e opere dentro de uma certa margem de erro.<br>
+  
+✅Visualizar dados em uma ferramenta de Business Intelligence (BI): conheça o ambiente de desenho do PowerBI, mostre os principais indicadores e as estruturas em um dashboard que permite ao negócio obter conclusões acionáveis.<br>
+  
+✅Organizar e comunicar as descobertas: estruture sua análise em um relatório claro e organizado. Comunique efetivamente as conclusões a que chegou em seu projeto.<br>
   
 Projeto 5: Empresa de Telecomunicações
-  
-Aprender como construir grupos de clientes de uma empresa de telecomunicações de acordo com seu comportamento.
-  
-Objetivos de aprendizagem:
-✅Importar dados de um arquivo em formato .csv
-✅Organizar e manipular dados utilizando SQL.
-✅Visualizar dados em uma ferramenta de Business Intelligence (BI).
-✅Entenda o fluxo e as etapas do processo de uma análise.
-✅Execute a limpeza de dados necessária.
-✅Preparar uma apresentação para as partes interessadas.
-✅Tomar decisões de negócios guiados por dados.
-  
+  <br>
+Aprender como construir grupos de clientes de uma empresa de telecomunicações de acordo com seu comportamento.<br>
+  <br>
+Objetivos de aprendizagem:<br>
+✅Importar dados de um arquivo em formato .csv<br>
+✅Organizar e manipular dados utilizando SQL.<br>
+✅Visualizar dados em uma ferramenta de Business Intelligence (BI).<br>
+✅Entenda o fluxo e as etapas do processo de uma análise.<br>
+✅Execute a limpeza de dados necessária.<br>
+✅Preparar uma apresentação para as partes interessadas.<br>
+✅Tomar decisões de negócios guiados por dados.<br>
+  <br>
 ## Projeto 6
-
-Em breve
+<br>
+Em breve<br>
   
 ## Projeto 7
-
-Em breve
+<br>
+Em breve<br>
