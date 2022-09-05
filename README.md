@@ -31,6 +31,7 @@ A Laboratória possibilita que mulheres que sonham com um futuro melhor comecem 
 
   
 # Índice de projetos 
+  
 ## Projeto 1: Excesso de mortes por COVID-19<br>
 
 Faça uma estimativa das mortes por COVID19 na América Latina<br>
@@ -84,7 +85,7 @@ Objetivos de aprendizagem:<br>
   
 ✅Organizar e comunicar as descobertas: estruture sua análise em um relatório claro e organizado. Comunique efetivamente as conclusões a que chegou em seu projeto.<br>
   
-Projeto 5: Empresa de Telecomunicações
+## Projeto 5: Empresa de Telecomunicações
   <br>
 Aprender como construir grupos de clientes de uma empresa de telecomunicações de acordo com seu comportamento.<br>
   <br>
