@@ -59,7 +59,7 @@ Objetivos de aprendizagem:<br>
 ✅Seleção e filtragem de dados através de consultas<br>
 ✅Tomar decisões comerciais baseadas em dados<br>
 
- <b><a href="https://github.com/chandrasantos/IBM-Laboratoria-Certificacao-Analise-de-Dados/tree/main/Trabalho%202%20-%20Aplicativo%20Saas" target="_blank"> Em breve será adicionado </b> 
+ <b><a href="https://github.com/chandrasantos/IBM-Laboratoria-Certificacao-Analise-de-Dados/tree/main/Trabalho%202%20-%20Aplicativo%20Saas" target="_blank"> Projeto 2 - Resolução e Dashboard </b> 
 
 ## Projeto 3: Segmentação de clientes no comércio eletrônico
   
@@ -73,7 +73,8 @@ Objetivos de aprendizagem:<br>
 ✅Realize uma análise por coorte<br>
 ✅Segmentar clientes usando o modelo RFM<br>
   <br>
- <b><a href="https://github.com/chandrasantos/IBM-Laboratoria-Certificacao-Analise-de-Dados/tree/main/trabalho%203%20-%20Ecommerce" target="_blank"> Em breve será adicionado </b> 
+ 
+<b><a href="https://github.com/chandrasantos/IBM-Laboratoria-Certificacao-Analise-de-Dados/tree/main/trabalho%203%20-%20Ecommerce" target="_blank"> Projeto 3 - Resolução e Dashboard </b> 
    
    
 ## Projeto 4: Análise de cancelamentos de hotéis
@@ -90,7 +91,7 @@ Objetivos de aprendizagem:<br>
   
 ✅Organizar e comunicar as descobertas: estruture sua análise em um relatório claro e organizado. Comunique efetivamente as conclusões a que chegou em seu projeto.<br>
  
- <b><a href="https://github.com/chandrasantos/IBM-Laboratoria-Certificacao-Analise-de-Dados/tree/main/trabalho%204%20-%20Turismo%20Hotel" target="_blank"> Em breve será adicionado </b> 
+ <b><a href="https://github.com/chandrasantos/IBM-Laboratoria-Certificacao-Analise-de-Dados/tree/main/trabalho%204%20-%20Turismo%20Hotel" target="_blank"> Projeto 4 - Resolução e Dashboard </b> 
    
 ## Projeto 5: Empresa de Telecomunicações
   <br>
