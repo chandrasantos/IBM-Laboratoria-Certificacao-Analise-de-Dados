@@ -46,12 +46,12 @@ Objetivos de aprendizagem:
 Conduzir uma análise de coorte para medir a retenção de um Saas Tecnológico.
   
 Objetivos de aprendizagem:
-✅Entendendo o conceito de ajuste do mercado de produtos
-✅Manipular dados em planilhas
-✅Organizar os dados em tabelas
-✅Realizar uma análise de coorte
-✅Seleção e filtragem de dados através de consultas
-✅Tomar decisões comerciais baseadas em dados
+✅Entendendo o conceito de ajuste do mercado de produtos <br>
+✅Manipular dados em planilhas<br>
+✅Organizar os dados em tabelas<br>
+✅Realizar uma análise de coorte<br>
+✅Seleção e filtragem de dados através de consultas<br>
+✅Tomar decisões comerciais baseadas em dados<br>
   
 ## Projeto 3: Segmentação de clientes no comércio eletrônico
 Realizar uma segmentação de clientes aplicando a metodologia RFM para um comércio eletrônico.
