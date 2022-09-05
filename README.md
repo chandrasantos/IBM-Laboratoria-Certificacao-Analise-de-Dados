@@ -1,5 +1,2 @@
-# IBM/Laboratoria - Certificação em Análise de Dados
+# Projetos criados durante a <b><a href="https://www.laboratoria.la/br/certificacao-analise-de-dados" target="_blank"> Certificação de Análise de Dados | IBM + Laboratoria </b> 
 
-Projetos criados durante a certificação em Análise de Dados da IBM/Laboratoria.
-
-[Em breve será atualizado]
