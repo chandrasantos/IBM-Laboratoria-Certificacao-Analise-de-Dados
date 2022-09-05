@@ -45,7 +45,7 @@ Objetivos de aprendizagem:<br>
 
 ✅Visualizar dados em planilhas<br>
   
-<EM BREVE><br>
+<b><a href="https://" target="_blank"> Em breve será adicionado </b> 
   
 ## Projeto 2: Retenção da Partida Tecnológica<br>
 <br>
@@ -58,7 +58,9 @@ Objetivos de aprendizagem:<br>
 ✅Realizar uma análise de coorte<br>
 ✅Seleção e filtragem de dados através de consultas<br>
 ✅Tomar decisões comerciais baseadas em dados<br>
-  
+
+ <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
+
 ## Projeto 3: Segmentação de clientes no comércio eletrônico
   
 Realizar uma segmentação de clientes aplicando a metodologia RFM para um comércio eletrônico.<br>
@@ -71,7 +73,9 @@ Objetivos de aprendizagem:<br>
 ✅Realize uma análise por coorte<br>
 ✅Segmentar clientes usando o modelo RFM<br>
   <br>
-  
+ <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
+   
+   
 ## Projeto 4: Análise de cancelamentos de hotéis
   <br>
   <br>
@@ -85,7 +89,9 @@ Objetivos de aprendizagem:<br>
 ✅Visualizar dados em uma ferramenta de Business Intelligence (BI): conheça o ambiente de desenho do PowerBI, mostre os principais indicadores e as estruturas em um dashboard que permite ao negócio obter conclusões acionáveis.<br>
   
 ✅Organizar e comunicar as descobertas: estruture sua análise em um relatório claro e organizado. Comunique efetivamente as conclusões a que chegou em seu projeto.<br>
-  
+ 
+ <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
+   
 ## Projeto 5: Empresa de Telecomunicações
   <br>
 Aprender como construir grupos de clientes de uma empresa de telecomunicações de acordo com seu comportamento.<br>
@@ -100,13 +106,16 @@ Objetivos de aprendizagem:<br>
 ✅Tomar decisões de negócios guiados por dados<br>
   <br>
   
+   <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
+     
+     
 ## Projeto 6
   
 <br>
-Em breve<br>
+<b><a href="https://" target="_blank"> Em breve será adicionado </b> 
   
 ## Projeto 7
   
 <br>
-Em breve<br>
+<b><a href="https://" target="_blank"> Em breve será adicionado </b> 
 
