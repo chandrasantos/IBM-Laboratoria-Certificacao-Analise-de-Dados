@@ -72,7 +72,9 @@ Objetivos de aprendizagem:<br>
 ✅Realize uma análise por coorte<br>
 ✅Segmentar clientes usando o modelo RFM<br>
   <br>
+  
 ## Projeto 4: Análise de cancelamentos de hotéis
+  <br>
   <br>
 Você trabalhará no setor de turismo analisando dados históricos de uma rede hoteleira.<br>
 
@@ -91,17 +93,20 @@ Aprender como construir grupos de clientes de uma empresa de telecomunicações 
   <br>
 Objetivos de aprendizagem:<br>
 ✅Importar dados de um arquivo em formato .csv<br>
-✅Organizar e manipular dados utilizando SQL.<br>
-✅Visualizar dados em uma ferramenta de Business Intelligence (BI).<br>
-✅Entenda o fluxo e as etapas do processo de uma análise.<br>
-✅Execute a limpeza de dados necessária.<br>
-✅Preparar uma apresentação para as partes interessadas.<br>
-✅Tomar decisões de negócios guiados por dados.<br>
+✅Organizar e manipular dados utilizando SQL<br>
+✅Visualizar dados em uma ferramenta de Business Intelligence (BI)<br>
+✅Entenda o fluxo e as etapas do processo de uma análise<br>
+✅Execute a limpeza de dados necessária<br>
+✅Preparar uma apresentação para as partes interessadas<br>
+✅Tomar decisões de negócios guiados por dados<br>
   <br>
+  
 ## Projeto 6
+  
 <br>
 Em breve<br>
   
 ## Projeto 7
+  
 <br>
 Em breve<br>
