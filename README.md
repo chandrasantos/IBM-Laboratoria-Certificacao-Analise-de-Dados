@@ -33,6 +33,8 @@ A Laboratória possibilita que mulheres que sonham com um futuro melhor comecem 
 # Índice de projetos 
 ## Projeto 1: Excesso de mortes por COVID-19
 
+Faça uma estimativa das mortes por COVID19 na América Latina
+
 Objetivos de aprendizagem:
 ✅Manipular dados em planilhas
 ✅Organizar e comunicar as descobertas
