@@ -1,0 +1,65 @@
+A perda de clientes na TELCO se deve ao aumento da concorrência. Há cada vez mais concorrentes no mercado, principalmente na região de San Diego, o que nos faz perder mais clientes lá do que em outros lugares.
+O problema são os contratos mensais. Se pudéssemos migrar todos os nossos clientes para contratos mais longos, todos os nossos problemas seriam resolvidos.
+
+Como esperado, Amalia pediu que você liderasse esse esforço. Especificamente, eles concordaram que Sebastián lhe daria acesso aos dados (um conjunto de várias tabelas) para que você pudesse fazer um relatório com o seguinte:
+
+Uma visão geral da população de clientes TELCO. Amalia quer entender as características dos clientes TELCO. Qual é a divisão por sexo? Eles têm dependentes? idades? cidades? etc.
+
+Uma exploração de perdas para entender melhor as suposições de Sebastian sobre contratos mensais e a região de San Diego como a mais afetada. Algumas segmentações para entender a perda de clientes que saíram durante a reunião são:
+
+Grupo 1: Contrato mes-a-mes e idade > 64
+Grupo 2: Contrato mes-a-mes , idade < 64 e número de referências < 2
+Grupo 3: Contrato diferente de mes-a-mes, edad > 64 y número de referidos < 2
+Grupo 4: Contrato diferente a mes-a-mes e antiguidade em meses < 40
+Uma análise de clientes em “alto risco” de abandono priorizada de acordo com o valor monetário estimado que representam para a TELCO. Aqui a ideia é que após identificar os fatores que estão relacionados a perda de clientes (com base nos clientes que já saíram), você possa identificar quais clientes, da base de clientes que a TELCO ainda tem (ou seja, clientes que não saíram), se eles seriam mais propensos a deixar a empresa. E a partir dessa base, identifique aqueles clientes que possuem um alto valor monetário para a TELCO. Em outras palavras, você deseja priorizar aqueles clientes que são: i) propensos a sair (não saíram, mas estariam em risco de sair) e ii) de alto valor monetário. Amalia quer a lista desses clientes.
+
+Você tem todo o contexto? Mãos à obra!
+
+Entrega
+Para considerar este projeto concluído você deve entregar, através da plataforma de aprendizaje, o seguinte:
+
+Um vídeo de no máximo 5 minutos simulando uma prévia que você envia ao CEO, onde explica suas conclusões e recomendações. Para isso você pode contar com seu painel PowerBI ou montar uma apresentação no Google Slides. Para gravar a si mesmo recomendamos a plataforma Loom.
+Um painel no Power BI que tem todas as visualizações que você usou para argumentar suas conclusões do vídeo.
+
+Objetivos de aprendizado
+Ao resolver este projeto, você vai aprender a:
+
+Importar dados de um arquivo em formato .csv
+Organizar e manipular dados utilizando SQL.
+Visualizar dados em uma ferramenta de Business Intelligence (BI).
+Entenda o fluxo e as etapas do processo de uma análise.
+Execute a limpeza de dados necessária.
+Preparar uma apresentação para as partes interessadas.
+Tomar decisões de negócios guiados por dados.
+
+___________________-
+
+Bem-vindas! Neste projeto vamos trabalhar com um negócio na área de serviços de telecomunicações. Nos últimos anos o mercado vem progredindo no aumento da capacidade de sua rede com implementações adicionais de wireless e fibra para atender a demanda constante por redes de maior velocidade. No entanto, com alguns meses desde o início de 2022, vemos um conjunto emergente de questões e oportunidades para um ambiente altamente competitivo, tecnológico e regulatório que pode influenciar o progresso de uma empresa. Para desenvolver seu trabalho como analista de dados frente a este negócio, você utilizará duas importantes ferramentas, a primeira o Bigquery, um mecanismo de banco de dados criado pelo Google que permite manipular dados de forma eficiente através da linguagem SQL, e a segunda ferramenta o PowerBI como suporte para a visualização de dados.
+
+Situação
+Neste projeto, vamos conhecer uma empresa de telecomunicações que concluiu um estudo de engenharia de telecomunicações e especialização em redes, e que ao longo do tempo obteve um alto nível de conhecimento e uma grande experiência na área de serviços de telefonia móvel, redes e cabeamento estruturado. Esta empresa decidiu iniciar sua própria empresa chamada TELCO cujas filiais estão localizadas no estado da Califórnia - Estados Unidos em 1106 cidades. No entanto, o mercado de telecomunicações vem crescendo paralelamente ao aumento de múltiplas empresas que oferecem serviços de rede e cabeamento estruturado a preços competitivos. Sebastian, percebendo que o mercado é competitivo, considera uma boa opção realizar um estudo de mercado que envolva uma análise de satisfação do cliente, abandono e perfil para posteriormente tomar estratégias de negócios que permitam melhorar o relacionamento cliente-empresa, para o qual contratou um consultor para apoiá-lo nesta análise.
+
+Sebástian planeja realizar o estudo de mercado para todos os seus clientes (7043 clientes), para isso, ele entra em contato com você e requer seus conhecimentos como Data Analytics para poder extrair informações relevantes que possam subsidiar a tomada de decisões de negócios.
+
+As fontes de dados que Sebástian possui e que ele compartilhará posteriormente são as seguintes:
+
+Telco customer churn status: Esta tabela contém informações sobre a perda de clientes da empresa para o próximo mês com base em vários fatores. A coluna "Churn Label" indica se o cliente saiu ou não no último mês. Outras colunas incluem o ID do cliente, o Índice de Satisfação, o motivo da perda de clientes, entre outros recursos.
+
+Telco customer churn services: Esta tabela mostra as características dos serviços contratados pelo cliente, entre as variáveis ​​importantes está o pagamento mensal feito pelo cliente à empresa, receita total, encargos adicionais atribuídos ao cliente por exceder o download estabelecido ou dados limites de consumo, entre outros.
+
+Telco customer churn location: Esta tabela fornece informações de localização do cliente para o estado da Califórnia, tais como onde os serviços solicitados foram executados e inclui coordenadas exatas (latitude e longitude).
+
+Telco customer churn population: Esta tabela mostra a população total de cada cidade do estado da Califórnia onde o indicador de referência para cada cidade é a variável CEP.
+
+Telco customer churn demographics: Esta tabela mostra as características demográficas dos clientes que solicitaram os serviços da empresa TELCO, grande parte dessas variáveis ​​estão relacionadas às informações pessoais do cliente, como o número de dependentes que possui, se a pessoa é casada ou não, a idade, entre outros.
+
+Se você quiser entender com mais detalhes cada uma das variáveis ​​de cada tabela, verifique a descrição das variáveis ​​que está no formato Excel.
+
+O conjunto de arquivos para desenvolver a respectiva análise da empresa TELCO é composto pelos seguintes 5 arquivos:
+
+Telco_customer_churn_demographics.csv
+Telco_customer_churn_location.csv
+Telco_customer_churn_population.csv
+Telco_customer_churn_services.csv
+Telco_customer_churn_status.csv
+Agora vamos explorar! Você já conhece os bancos de dados fornecidos pela equipe de Dados da empresa TELCO, agora é a sua vez de poder aproveitar ao máximo esses dados e extrair as melhores informações que beneficiem a tomada de decisões. O baixe o conjunto de dados para começarmos a trabalhar.
