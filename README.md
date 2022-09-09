@@ -107,7 +107,7 @@ Objetivos de aprendizagem:<br>
 ✅Tomar decisões de negócios guiados por dados<br>
   <br>
   
-   <b><a href="https://github.com/chandrasantos/IBM-Laboratoria-Certificacao-Analise-de-Dados/tree/main/Trabalho%205%20-%20Operadora%20de%20Telefonia" target="_blank"> Projeto 5 - Dashboard </b> 
+   <b><a href="https://github.com/chandrasantos/IBM-Laboratoria-Certificacao-Analise-de-Dados/tree/main/Trabalho%205%20-%20Operadora%20de%20Telefonia" target="_blank"> Projeto 5 - Resolução e Dashboard </b> 
      
      
 ## Projeto 6
