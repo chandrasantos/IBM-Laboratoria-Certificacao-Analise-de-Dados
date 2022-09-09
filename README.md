@@ -113,6 +113,18 @@ Objetivos de aprendizagem:<br>
 ## Projeto 6
   
 <br>
+Escolha um business case e faça uma análise completa como projeto final.
+<br>
+A ideia é que este projeto seja "livre". Isso significa que eu tenho a missão de escolher o conjunto de dados a ser usado, definir as questões de negócios relevantes e decidir quais métricas e visualizações são relevantes. Neste projeto não existe uma “situação” que determine o contexto do trabalho a ser realizado. 
+<br>
+Objetivos de Aprendizagem:
+✅Definir as questões de negócios relevantes
+✅Definir os indicadores e visualizações de dados mais relevantes para sua análise
+✅Entender o fluxo e as etapas de um processo de análise.
+✅Visualize dados em uma ferramenta de Business Intelligence (BI).
+✅Limpar e processar dados.
+✅Preparar uma apresentação para as partes interessadas.
+✅Tome decisões de negócios com base em dados.
 <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
   
 ## Projeto 7
