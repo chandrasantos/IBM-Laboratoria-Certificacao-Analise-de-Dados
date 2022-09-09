@@ -127,8 +127,10 @@ Objetivos de Aprendizagem:
 ✅Tome decisões de negócios com base em dados.
 <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
   
-## Projeto 7
+## Projeto 7 - Bicicletas compartilhadas
   
+<br>
+Neste projeto optatito será avaliada a capacidade de realizar análises descritivas de dados e resolução de problemas. Neste projeto a análise exploratória é a partir de um conjunto de dados sobre o uso de um programa de bicicletas compartilhadas.
 <br>
 <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
 
