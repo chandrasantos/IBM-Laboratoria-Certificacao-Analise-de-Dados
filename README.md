@@ -78,9 +78,8 @@ Objetivos de aprendizagem:<br>
    
    
 ## Projeto 4: Análise de cancelamentos de hotéis
-  <br>
-  <br>
-Você trabalhará no setor de turismo analisando dados históricos de uma rede hoteleira.<br>
+<br>
+Simulação de um trabalho no setor de turismo analisando dados históricos de uma rede hoteleira.<br>
 
 Objetivos de aprendizagem:<br>
 ✅Organizar e manipular dados usando SQL: entenda os principais comandos SQL (i.e. SELECT, FROM, WHERE, GROUP BY, ORDER BY, AVG, COUNT). Use a linguagem SQL para gerenciar as informações armazenadas no BigQuery. Limpe, filtre e resuma os dados de acordo com a necessidade do negócio.<br>
