@@ -78,9 +78,8 @@ Objetivos de aprendizagem:<br>
    
    
 ## Projeto 4: Análise de cancelamentos de hotéis
-  <br>
-  <br>
-Você trabalhará no setor de turismo analisando dados históricos de uma rede hoteleira.<br>
+<br>
+Simulação de um trabalho no setor de turismo analisando dados históricos de uma rede hoteleira.<br>
 
 Objetivos de aprendizagem:<br>
 ✅Organizar e manipular dados usando SQL: entenda os principais comandos SQL (i.e. SELECT, FROM, WHERE, GROUP BY, ORDER BY, AVG, COUNT). Use a linguagem SQL para gerenciar as informações armazenadas no BigQuery. Limpe, filtre e resuma os dados de acordo com a necessidade do negócio.<br>
@@ -107,16 +106,31 @@ Objetivos de aprendizagem:<br>
 ✅Tomar decisões de negócios guiados por dados<br>
   <br>
   
-   <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
+   <b><a href="https://github.com/chandrasantos/IBM-Laboratoria-Certificacao-Analise-de-Dados/tree/main/Trabalho%205%20-%20Operadora%20de%20Telefonia" target="_blank"> Projeto 5 - Resolução e Dashboard </b> 
      
      
 ## Projeto 6
   
 <br>
+Escolha um business case e faça uma análise completa como projeto final.<br>
+<br>
+A ideia desse projeto é ser "livre". Isso significa que eu tenho a missão de escolher o conjunto de dados a ser usado, definir as questões de negócios relevantes e decidir quais métricas e visualizações são relevantes. Neste projeto não existe uma “situação” que determine o contexto do trabalho a ser realizado. <br>
+<br>
+Objetivos de Aprendizagem:<br>
+✅Definir as questões de negócios relevantes.<br>
+✅Definir os indicadores e visualizações de dados mais relevantes para sua análise.<br>
+✅Entender o fluxo e as etapas de um processo de análise.<br>
+✅Visualize dados em uma ferramenta de Business Intelligence (BI).<br>
+✅Limpar e processar dados.<br>
+✅Preparar uma apresentação para as partes interessadas.<br>
+✅Tome decisões de negócios com base em dados.<br>
+<br>
 <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
   
-## Projeto 7
+## Projeto 7 - Bicicletas compartilhadas
   
+<br>
+Neste projeto optatito será avaliada a capacidade de realizar análises descritivas de dados e resolução de problemas. Neste projeto a análise exploratória é a partir de um conjunto de dados sobre o uso de um programa de bicicletas compartilhadas.
 <br>
 <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
 
