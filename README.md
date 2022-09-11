@@ -125,7 +125,7 @@ Objetivos de Aprendizagem:<br>
 ✅Preparar uma apresentação para as partes interessadas.<br>
 ✅Tome decisões de negócios com base em dados.<br>
 <br>
-<b><a href="https://" target="_blank"> Em breve será adicionado </b> 
+<b><a href="https://github.com/chandrasantos/IBM-Laboratoria-Certificacao-Analise-de-Dados/tree/main/Trabalho%206%20-%20RH" target="_blank"> Em breve será adicionado </b> 
   
 ## Projeto 7 - Bicicletas compartilhadas
   
