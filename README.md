@@ -135,4 +135,4 @@ Neste projeto optatito será avaliada a capacidade de realizar análises descrit
 <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
 
 ## Diploma da Certificação 
-<b><a href="https://www.credly.com/earner/earned/badge/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201" target="_blank"> Clique aqui para visualizar.</b> 
+<b><a href="https://www.credly.com/badges/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201/public_url" target="_blank"> Clique aqui para visualizar.</b> 
