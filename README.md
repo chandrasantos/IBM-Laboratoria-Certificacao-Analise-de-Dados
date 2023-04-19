@@ -135,6 +135,6 @@ Neste projeto optatito será avaliada a capacidade de realizar análises descrit
 <b><a href="https://" target="_blank"> Em breve será adicionado </b> 
 
 ## Diploma da Certificação 
-<b><a href="https://www.credly.com/badges/6b6f134d-1d52-4f3a-97e8-cbbccd3f8201/public_url" target="_blank"> Clique aqui para visualizar.</b> 
+<b><a href="https://www.linkedin.com/posts/chandrasantos_certificado-an%C3%A1lise-de-dados-laboratoria-activity-7007457821902422016-92Je?utm_source=share&utm_medium=member_desktop" target="_blank"> Clique aqui para visualizar.</b> 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6b6f134d-1d52-4f3a-97e8-cbbccd3f8201" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
